@@ -15,7 +15,7 @@ I'm excited to share my web-based projects with you.
 ## 📫 Let's Connect
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abishek-krishnamoorthy-a13a83237/)
-- Email: [gmail-abishekkrishnamoorthy04@gmail.com](mailto:gmail-abishekkrishnamoorthy04@gmail.com)
+- Email: [gmail-abishekkrishnamoorthy04@gmail.com](abishekkrishnamoorthy04@gmail.com)
 
 Feel free to connect with me. I'm always open to collaborations and discussions with fellow students and professionals.
 
