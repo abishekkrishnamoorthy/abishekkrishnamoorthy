@@ -6,7 +6,7 @@ I'm excited to share my web-based projects with you.
 ## 🌱 About Me
 
 - 📚 Studying Bsc(Information Technology) at GNC.
-- 💻 Focused on web development with Node.js and JavaScript.
+- 💻 Focused on web development with Node.js 
 - 🌐 Passionate about creating web apps and APIs.
 - 🚀 Aspiring to become a skilled full-stack developer.
 - 📫 You can reach me at (abishekkrishnamoorthy04@gmail.com).
