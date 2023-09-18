@@ -9,7 +9,7 @@ I'm excited to share my web-based projects with you.
 - 💻 Focused on web development with Node.js and JavaScript.
 - 🌐 Passionate about creating web apps and APIs.
 - 🚀 Aspiring to become a skilled full-stack developer.
-- 📫 You can reach me at (mailto:abishekkrishnamoorthy04@gmail.com).
+- 📫 You can reach me at (abishekkrishnamoorthy04@gmail.com).
 
 
 ## 📫 Let's Connect
