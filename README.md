@@ -1,6 +1,6 @@
 # Hi, I'm Abishek Krishnamoorthy! 👋
 
-I'm a passionate student with a love for web development, currently focusing on Node.js and full-stack development.
+I'm a passionate coder with a love for web development, currently focusing on Node.js and full-stack development.
 I'm excited to share my web-based projects with you.
 
 ## 🌱 About Me
